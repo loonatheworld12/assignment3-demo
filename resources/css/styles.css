@@ -170,6 +170,7 @@ footer nav ul {
 }
 
 footer nav li {
+    opacity: .5;
     list-style-type: none;
     font-size: .75em;
     padding: 1em;
